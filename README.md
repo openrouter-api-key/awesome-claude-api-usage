@@ -62,3 +62,5 @@ A curated list for claude api usage in both senses: getting started with the Cla
 ## Contributing
 
 Open a pull request with the link, a one-line reason it belongs here, and the page that names it.
+
+_Last reviewed: 2026-09-22_
